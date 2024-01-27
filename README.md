@@ -1,2 +1,2 @@
 # Hans-Hurtado
-Hans Hurtado Presentation
+Hans Hurtado CV: https://hanshurtado.github.io/Hans-Hurtado/
