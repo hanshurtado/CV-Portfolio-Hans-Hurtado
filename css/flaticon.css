@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "Flaticon";
-    src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+    src: url( ) format("svg");
   }
 }
 
@@ -35,7 +35,7 @@
 .flaticon-phone-call:before { content: "\f105"; }
 .flaticon-translation:before { content: "\f106"; }
 .flaticon-email:before { content: "\f107"; }
-.flaticon-skype:before { content: "\f108"; }
+.flaticon-linkedin:before { content: "\f111"; }
 .flaticon-idea:before { content: "\f109"; }
 .flaticon-growth:before { content: "\f10a"; }
 .flaticon-support:before { content: "\f10b"; }
